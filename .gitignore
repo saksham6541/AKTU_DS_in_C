@@ -1,0 +1,11 @@
+# Compiled C executables
+*.exe
+
+# Object files
+*.o
+
+# Debug/build files
+*.out
+
+# VS Code
+.vscode/
